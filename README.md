@@ -1,2 +1,0 @@
-# FigureBed
-PicGo Figure Bed
